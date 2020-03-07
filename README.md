@@ -1,1 +1,1 @@
-![About](https://github.com/RCHowell/rchowell.github.io/issues/8)
+[about](https://github.com/RCHowell/rchowell.github.io/issues/8)
